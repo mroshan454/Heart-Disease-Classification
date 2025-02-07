@@ -41,5 +41,5 @@ This is where you get different information about each of the feature in your da
 | **thal** | Thalium stress result  | 1: Normal, 3: Normal, 6: Fixed defect, 7: Reversible defect |
 | **target** | Have disease or not (1 = yes; 0 = no) | 0, 1 |
 
-# The End-to-End Classification Project is inside this notebook: 
+# The End-to-End Classification Project is inside this notebook: https://github.com/mroshan454/Heart-Disease-Classification/blob/main/End-to-End-Heart-Disease-Classification.ipynb
 
